@@ -1,0 +1,52 @@
+C:\Users\NightOn\Desktop\BullsCow\BullsCow\bin\Debug\BullsCow.exe.config
+C:\Users\NightOn\Desktop\BullsCow\BullsCow\bin\Debug\BullsCow.exe
+C:\Users\NightOn\Desktop\BullsCow\BullsCow\bin\Debug\BullsCow.pdb
+C:\Users\NightOn\Desktop\BullsCow\BullsCow\obj\Debug\BullsCow.csproj.AssemblyReference.cache
+C:\Users\NightOn\Desktop\BullsCow\BullsCow\obj\Debug\BullsCow.csproj.SuggestedBindingRedirects.cache
+C:\Users\NightOn\Desktop\BullsCow\BullsCow\obj\Debug\BullsCow.Form1.resources
+C:\Users\NightOn\Desktop\BullsCow\BullsCow\obj\Debug\BullsCow.Properties.Resources.resources
+C:\Users\NightOn\Desktop\BullsCow\BullsCow\obj\Debug\BullsCow.csproj.GenerateResource.cache
+C:\Users\NightOn\Desktop\BullsCow\BullsCow\obj\Debug\BullsCow.csproj.CoreCompileInputs.cache
+C:\Users\NightOn\Desktop\BullsCow\BullsCow\obj\Debug\BullsCow.exe
+C:\Users\NightOn\Desktop\BullsCow\BullsCow\obj\Debug\BullsCow.pdb
+D:\BullsCow\BullsCow\bin\Debug\BullsCow.exe.config
+D:\BullsCow\BullsCow\bin\Debug\BullsCow.exe
+D:\BullsCow\BullsCow\bin\Debug\BullsCow.pdb
+D:\BullsCow\BullsCow\obj\Debug\BullsCow.csprojAssemblyReference.cache
+D:\BullsCow\BullsCow\obj\Debug\BullsCow.Form1.resources
+D:\BullsCow\BullsCow\obj\Debug\BullsCow.Properties.Resources.resources
+D:\BullsCow\BullsCow\obj\Debug\BullsCow.csproj.GenerateResource.cache
+D:\BullsCow\BullsCow\obj\Debug\BullsCow.csproj.CoreCompileInputs.cache
+D:\BullsCow\BullsCow\obj\Debug\BullsCow.exe
+D:\BullsCow\BullsCow\obj\Debug\BullsCow.pdb
+E:\BullsCow\BullsCow\bin\Debug\BullsCow.exe.config
+E:\BullsCow\BullsCow\bin\Debug\BullsCow.exe
+E:\BullsCow\BullsCow\bin\Debug\BullsCow.pdb
+E:\BullsCow\BullsCow\obj\Debug\BullsCow.csproj.AssemblyReference.cache
+E:\BullsCow\BullsCow\obj\Debug\BullsCow.Form1.resources
+E:\BullsCow\BullsCow\obj\Debug\BullsCow.Properties.Resources.resources
+E:\BullsCow\BullsCow\obj\Debug\BullsCow.csproj.GenerateResource.cache
+E:\BullsCow\BullsCow\obj\Debug\BullsCow.csproj.CoreCompileInputs.cache
+E:\BullsCow\BullsCow\obj\Debug\BullsCow.exe
+E:\BullsCow\BullsCow\obj\Debug\BullsCow.pdb
+C:\Users\anna_\Desktop\ургелии рпм\BullsCow\BullsCow\bin\Debug\BullsCow.exe.config
+C:\Users\anna_\Desktop\ургелии рпм\BullsCow\BullsCow\bin\Debug\BullsCow.exe
+C:\Users\anna_\Desktop\ургелии рпм\BullsCow\BullsCow\bin\Debug\BullsCow.pdb
+C:\Users\anna_\Desktop\ургелии рпм\BullsCow\BullsCow\obj\Debug\BullsCow.csproj.AssemblyReference.cache
+C:\Users\anna_\Desktop\ургелии рпм\BullsCow\BullsCow\obj\Debug\BullsCow.csproj.SuggestedBindingRedirects.cache
+C:\Users\anna_\Desktop\ургелии рпм\BullsCow\BullsCow\obj\Debug\BullsCow.Form1.resources
+C:\Users\anna_\Desktop\ургелии рпм\BullsCow\BullsCow\obj\Debug\BullsCow.Properties.Resources.resources
+C:\Users\anna_\Desktop\ургелии рпм\BullsCow\BullsCow\obj\Debug\BullsCow.csproj.GenerateResource.cache
+C:\Users\anna_\Desktop\ургелии рпм\BullsCow\BullsCow\obj\Debug\BullsCow.csproj.CoreCompileInputs.cache
+C:\Users\anna_\Desktop\ургелии рпм\BullsCow\BullsCow\obj\Debug\BullsCow.exe
+C:\Users\anna_\Desktop\ургелии рпм\BullsCow\BullsCow\obj\Debug\BullsCow.pdb
+C:\Users\sabar\OneDrive\Документы\Bulls COW\BullsCow\bin\Debug\BullsCow.exe.config
+C:\Users\sabar\OneDrive\Документы\Bulls COW\BullsCow\bin\Debug\BullsCow.exe
+C:\Users\sabar\OneDrive\Документы\Bulls COW\BullsCow\bin\Debug\BullsCow.pdb
+C:\Users\sabar\OneDrive\Документы\Bulls COW\BullsCow\obj\Debug\BullsCow.csproj.AssemblyReference.cache
+C:\Users\sabar\OneDrive\Документы\Bulls COW\BullsCow\obj\Debug\BullsCow.Form1.resources
+C:\Users\sabar\OneDrive\Документы\Bulls COW\BullsCow\obj\Debug\BullsCow.Properties.Resources.resources
+C:\Users\sabar\OneDrive\Документы\Bulls COW\BullsCow\obj\Debug\BullsCow.csproj.GenerateResource.cache
+C:\Users\sabar\OneDrive\Документы\Bulls COW\BullsCow\obj\Debug\BullsCow.csproj.CoreCompileInputs.cache
+C:\Users\sabar\OneDrive\Документы\Bulls COW\BullsCow\obj\Debug\BullsCow.exe
+C:\Users\sabar\OneDrive\Документы\Bulls COW\BullsCow\obj\Debug\BullsCow.pdb
